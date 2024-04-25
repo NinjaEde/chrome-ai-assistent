@@ -1,6 +1,6 @@
 # AI Assistent für Google Chrome
 
-Google Chrome Plugin um aktuelle Webseiten bewerten zu lassen
+Google Chrome Plugin, um eine kurze Zusammenfassung der aktuelle Webseiten zu erhalten und diese qualitativ bewerten zu lassen
 
 ## Installation
 
@@ -10,11 +10,9 @@ Google Chrome Plugin um aktuelle Webseiten bewerten zu lassen
 4. Aktiviere den Entwicklermodus
 5. Klicke auf `Entpackte Erweiterung laden`
 6. Wähle den Ordner aus, in dem du das Plugin entpackt hast
-7. Fertig!
 
 ## Verwendung
 
-1. Gehe auf eine Webseite
+1. Besuche eine Webseite
 2. Klicke auf das Plugin-Icon
 3. Warte auf die Bewertung
-4. Fertig!
